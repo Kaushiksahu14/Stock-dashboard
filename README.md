@@ -225,4 +225,4 @@ This is a basic ML model for educational/demonstration purposes only. Real stock
 
 ## 📝 License
 
-This project was built as part of the JarNox Software Internship Assignment.
+This project was created and implemented by me as part of the JarNox Software Internship Assignment, reflecting my ability to build practical and scalable solutions.
